@@ -1,2 +1,2 @@
-# deep-think
-Deep Think Release Repository
+# midgard
+Midgard Agent Harness Release Repository
